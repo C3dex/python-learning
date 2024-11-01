@@ -1,3 +1,4 @@
+#This code is made from CodeDex: The Legend of Python.
 weight = float(input("Enter Your Weight: ").strip());
 height = float(input("Enter Your Height: ").strip());
 x = weight/float(height * height)
